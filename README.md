@@ -12,7 +12,8 @@
 🔄 Dùng StatefulWidget khi có logic thay đổi UI
 ♻ Chia nhỏ widget khi có từ 100 dòng code trở lên
 🔄 Dùng const khi có thể để tối ưu hiệu suất
- 3 Quản lý trạng thái
+
+3 Quản lý trạng thái
  Dùng Redux Toolkit để quản lý trạng thái cục bộ
  
 
