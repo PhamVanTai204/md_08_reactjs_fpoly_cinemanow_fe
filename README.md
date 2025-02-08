@@ -14,7 +14,8 @@
 🔄 Dùng const khi có thể để tối ưu hiệu suất
 
 3 Quản lý trạng thái
- Dùng Redux Toolkit để quản lý trạng thái cục bộ
+
+Dùng Redux Toolkit để quản lý trạng thái cục bộ
  
 
 
