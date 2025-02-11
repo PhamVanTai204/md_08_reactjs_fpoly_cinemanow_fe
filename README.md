@@ -1,18 +1,9 @@
-1 Quy tắc đặt tên
-1.1 Tên file: lowercase, dùng dấu _ (snake_case)
-
-✅ home_screen.dart ⛔ HomeScreen.dart 1.2 Tên class: PascalCase
-✅ class HomeScreen ⛔ class home_screen 1.3 Tên biến & hàm: camelCase
-✅ int userAge = 30; ⛔ int User_Age = 30;
+1 Quy tắc đặt tên camelCase. 
+Kiểu viết tên biến mà chữ cái đầu tiên viết thường, còn các chữ cái đầu của các từ tiếp theo viết hoa 
+đặt cho cả biến và thư mục  
 
 
-2 Quy tắc viết Widget
-🏗 StatelessWidget trước nếu không có state
-✅ class HomeScreen extends StatelessWidget
-🔄 Dùng StatefulWidget khi có logic thay đổi UI
-♻ Chia nhỏ widget khi có từ 100 dòng code trở lên
-🔄 Dùng const khi có thể để tối ưu hiệu suất
-
+ 
 3 Quản lý trạng thái
 
 Dùng Redux Toolkit để quản lý trạng thái cục bộ
